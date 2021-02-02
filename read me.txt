@@ -1,0 +1,9 @@
+install these modules by doing pip install {module name}
+
+pynput
+keyboard
+time
+coloama
+
+
+in terminal or cmd prompt 
